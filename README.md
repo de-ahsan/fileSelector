@@ -1,24 +1,13 @@
-# file-selector
+# File Selector
 
-## Project setup
-```
-yarn install
-```
+### Demo link
+https://flamboyant-hermann-ff1ae0.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Stack
+* Vue 2
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### file selector can:
+* select multiple files from different folders.
+* open the folder of selected file.
+* add event(on select) when file is selected.
+* show list of selected files.
